@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giulio-orlando
+- 👋 Hi, I’m giulio orlando
 - 👀 I’m interested in Aerospace Projects
 - 🌱 I’m currently learning "Machine Learning"
 - 📫 How to reach me: giulio.orlando17@gmail.com
